@@ -1,0 +1,16 @@
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\bin\Debug\net9.0-windows\SimpleBrowserGUI.exe
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\bin\Debug\net9.0-windows\SimpleBrowserGUI.deps.json
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\bin\Debug\net9.0-windows\SimpleBrowserGUI.runtimeconfig.json
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\bin\Debug\net9.0-windows\SimpleBrowserGUI.dll
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\bin\Debug\net9.0-windows\SimpleBrowserGUI.pdb
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\SimpleBrowserGUI.Form1.resources
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\SimpleBrowserGUI.csproj.GenerateResource.cache
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\SimpleBrowserGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\SimpleBrowserGUI.AssemblyInfoInputs.cache
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\SimpleBrowserGUI.AssemblyInfo.cs
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\SimpleBrowserGUI.csproj.CoreCompileInputs.cache
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\SimpleBrowserGUI.dll
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\refint\SimpleBrowserGUI.dll
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\SimpleBrowserGUI.pdb
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\SimpleBrowserGUI.genruntimeconfig.cache
+C:\Users\dankk\OneDrive\Desktop\VisualStudioC#\SimpleBrowserGUI\SimpleBrowserGUI\obj\Debug\net9.0-windows\ref\SimpleBrowserGUI.dll
