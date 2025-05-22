@@ -5,9 +5,9 @@ to run:
 
 1. have go and python/C# installed + vscode and visual studio
 
-2. run the go server with go run main.go
+2. run the go server in vscode with go run main.go
 
-3. depending on the gui if your choice, run the C# gui in visual studio or if python, do python frontendtkinter.py
+3. depending on the gui of your choice, run the C# gui in visual studio or if python in vscode, do python frontendtkinter.py in a different terminal window
 
 4. enter a url
 
